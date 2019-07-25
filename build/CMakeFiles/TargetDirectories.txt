@@ -1,0 +1,3 @@
+/home/k/k_rishna/P2/code/build/CMakeFiles/rebuild_cache.dir
+/home/k/k_rishna/P2/code/build/CMakeFiles/edit_cache.dir
+/home/k/k_rishna/P2/code/build/CMakeFiles/sc.dir
